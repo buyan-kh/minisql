@@ -1,0 +1,12 @@
+build/
+build-*/
+cmake-build-*/
+web/node_modules/
+web/.next/
+web/out/
+*.db
+*.db.wal
+*.wal
+.DS_Store
+compile_commands.json
+bench/results.json
