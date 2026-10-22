@@ -102,4 +102,3 @@ The script expects the Emscripten SDK at `/tmp/emsdk`. It writes `web/public/kee
 | `bench` | SQLite comparison |
 | `web` | SQL playground |
 | `docs/WALKTHROUGH.md` | Design notes |
-| `docs/RESUME.md` | Three resume lines taken from the measurements above |
